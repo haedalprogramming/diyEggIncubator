@@ -24,6 +24,6 @@
 3. ff
 
 ## 회로 이미지
-![circuit](image\hatcher_04_bb.png) 
+![circuit](./image/hatcher_04_bb.png) 
 
 유튜브링크 : https://youtu.be/B8f_P1lXJ2U
