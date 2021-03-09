@@ -119,5 +119,8 @@ void loop (){
 ```
 
 
+## 완성품
+![조립결과](./image/inside1.jpg)
+
 
 유튜브링크 : https://youtu.be/B8f_P1lXJ2U
