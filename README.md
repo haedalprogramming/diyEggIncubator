@@ -21,9 +21,9 @@
 ## 사용된 라이브러리
 아래에서 다운받을 수 있다.   
 
-1. ![LiquidCrystal_I2C-master](https://github.com/johnrickman/LiquidCrystal_I2C)
-2. ![Adafruit_Sensor-master](https://github.com/adafruit/Adafruit_Sensor)
-3. ![DHT_sensor-library-master](https://github.com/adafruit/DHT-sensor-library)
+1. [LiquidCrystal_I2C-master](https://github.com/johnrickman/LiquidCrystal_I2C)
+2. [Adafruit_Sensor-master](https://github.com/adafruit/Adafruit_Sensor)
+3. [DHT_sensor-library-master](https://github.com/adafruit/DHT-sensor-library)
 
 
 ## 회로 이미지
